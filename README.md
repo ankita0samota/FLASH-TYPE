@@ -26,7 +26,7 @@ Flash Type is a modern, responsive web application that enables users to measure
 - cd FLASH-TYPE
 - npm install
 - npm start
--➡ Runs on: http://localhost:3000
+- ➡ Runs on: http://localhost:3000
 
 ##📈 Future Scope
 
