@@ -28,7 +28,7 @@ Flash Type is a modern, responsive web application that enables users to measure
 - npm start
 - ➡ Runs on: http://localhost:3000
 
-##📈 Future Scope
+## 📈 Future Scope
 
 - User profile and performance history
 - Accuracy and error analysis
